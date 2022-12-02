@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">
+        Macbook Pro 13
+    </string>
+    <string name="content_specs_display">13-inch (diagonal) Liquid Retina XDR display;1 3024-by-1964 native resolution at 254 pixels per inch
+    </string>
+    <string name="content_specs_size">Apple M1 Pro chip 8-core CPU with 6 performance cores and 2 efficiency cores</string>
+    <string name="content_specs_battery">70-watt-hour lithium-polymer battery</string>
+    <string name="stock">Avalaible Stock: 14</string>
+    <string name="specification">Specifications</string>
+    <string name="display">Display</string>
+    <string name="size">Chip</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Penjual:</string>
+    <string name="my_name">Nawfal Fudhayl Warsito</string>
+    <string name="buy">Buy</string>
+    <string name="dummy_value">$1999.00</string>
+    <string name="dummy_photos">5 photos</string>
+    <string name="kembali">Back</string>
+    <string name="barang_berhasil_dibeli">Barang berhasil dibeli</string>
+    <string name="hubungi_customer">Hubungi CS</string>
+</resources>
